@@ -41,7 +41,7 @@ cut -f 3 -d _ encabezado > año
 
 # Ahora generamos dos archivos, uno que contenga los ID y los códigos ISO y el otro
 #que contenga los ID y loa años, además indicamos que ";" sea el nuevo delimitador de
-#campos. En seguida los ordenamos por ISO y año.
+#campos.  En seguida los ordenamos por ISO y año.
 
 paste ID iso  -d ";" > poriso | sort -k 2  poriso > poriso
 paste ID año  -d ";" > poraño | sort -k 2  poraño > poraño
