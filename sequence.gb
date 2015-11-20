@@ -1,0 +1,258 @@
+LOCUS       JX879714                 573 bp    DNA     linear   VRT 11-MAR-2013
+DEFINITION  Andinobates cassidyhornae isolate GECOH1632 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   JX879714
+VERSION     JX879714.1  GI:459360618
+KEYWORDS    .
+SOURCE      mitochondrion Andinobates cassidyhornae
+  ORGANISM  Andinobates cassidyhornae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Hyloidea; Dendrobatidae;
+            Dendrobatinae; Andinobates.
+REFERENCE   1  (bases 1 to 573)
+  AUTHORS   Amezquita,A., Marquez,R., Medina,R., Mejia-Vargas,D., Kahn,T.R.,
+            Suarez,G. and Mazariegos,L.
+  TITLE     A new species of Andean poison frog, Andinobates (Anura:
+            Dendrobatidae), from the northwestern Andes of Colombia
+  JOURNAL   Zootaxa 3620, 163-178 (2013)
+   PUBMED   26120702
+REFERENCE   2  (bases 1 to 573)
+  AUTHORS   Amezquita,A., Marquez,R., Medina,R., Mejia-Vargas,D., Kahn,T.R.,
+            Suarez,G. and Mazariegos,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-2012) Biological Sciences, Universidad de Los
+            Andes, AA 4976, Bogota 11021, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..573
+                     /organism="Andinobates cassidyhornae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="GECOH1632"
+                     /db_xref="taxon:1204270"
+                     /country="Colombia: Antioquia, Ciudad Bolivar, 1804 m"
+                     /PCR_primers="fwd_name: 16Sar, fwd_seq:
+                     cgcctgtttatcaaaaac, rev_name: 16Sbr, rev_seq:
+                     ccggtctgaactcagatcacgt"
+     rRNA            <1..>573
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tcgcctcctg cataacaaat aggaggtcca gcctgcccag tgacactgtt caacggccgc
+       61 ggtatcctaa ccgtgcgaag gtagcgtaat cacttgttct ttaattgagg actagtatga
+      121 atggccccac gaggactaca ctgtctcctt tctctaatca atgaaactga tctccccgtg
+      181 aagaagcggg gataaaccta taagacgaga agaccctatg gagctttaaa caacagaaat
+      241 acttgcttct ctcctaccat tttctgaaaa ctaaattaat tcaagcattt tattttccag
+      301 ttttaggttg gggtgaccac ggagaaaaaa taaacctcca tgtagaaaga agccttccac
+      361 cttctaagca aaaagacaca actttatgca tcagcacatt gactcccatt gacccaataa
+      421 tttgatcaac gaaccaagtt accctaggga taacagcgca atctactttg agagctcata
+      481 tcgacaagta ggtttacgac ctcgatgttg gatcagggtg tccaagtggt gcagccgcta
+      541 ctaatggttc gtttgttcaa cgattaatac cct
+//
+
+LOCUS       JX879708                 573 bp    DNA     linear   VRT 11-MAR-2013
+DEFINITION  Andinobates opisthomelas isolate GECOH1203 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   JX879708
+VERSION     JX879708.1  GI:459360612
+KEYWORDS    .
+SOURCE      mitochondrion Andinobates opisthomelas (Andean poison frog)
+  ORGANISM  Andinobates opisthomelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Hyloidea; Dendrobatidae;
+            Dendrobatinae; Andinobates.
+REFERENCE   1  (bases 1 to 573)
+  AUTHORS   Amezquita,A., Marquez,R., Medina,R., Mejia-Vargas,D., Kahn,T.R.,
+            Suarez,G. and Mazariegos,L.
+  TITLE     A new species of Andean poison frog, Andinobates (Anura:
+            Dendrobatidae), from the northwestern Andes of Colombia
+  JOURNAL   Zootaxa 3620, 163-178 (2013)
+   PUBMED   26120702
+REFERENCE   2  (bases 1 to 573)
+  AUTHORS   Amezquita,A., Marquez,R., Medina,R., Mejia-Vargas,D., Kahn,T.R.,
+            Suarez,G. and Mazariegos,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-2012) Biological Sciences, Universidad de Los
+            Andes, AA 4976, Bogota 11021, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..573
+                     /organism="Andinobates opisthomelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="GECOH1203"
+                     /db_xref="taxon:1203600"
+                     /country="Colombia: Antioquia, Amalfi, 1850 m"
+                     /PCR_primers="fwd_name: 16Sar, fwd_seq:
+                     cgcctgtttatcaaaaac, rev_name: 16Sbr, rev_seq:
+                     ccggtctgaactcagatcacgt"
+     rRNA            <1..>573
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tcgcctcctg cataacaaat aggaggtcca gcctgcccag tgacactgtt caacggccgc
+       61 ggtatcctaa ccgtgcgaag gtagcgtaat cacttgttct ttaattgagg actagtatga
+      121 atggccccac gaggactaca ctgtctcctt tctctaatca atgaaactga tctccccgtg
+      181 aagaagcggg gataaaccta taagacgaga agaccctatg gagctttaaa caacagaaat
+      241 acttgcttct ttcctaccat tttctgaaaa ctaaactaat tcaagcattt tatctcccag
+      301 ttttaggttg gggtgaccac ggagaaaaaa taaacctcca tgttgaaaga agccttccac
+      361 cttctaagca aaaagacaca actttatgca tcagcacatt gactcccatt gacccaataa
+      421 tttgatcaac gaaccaagtt accctaggga taacagcgca atctactttg agagctcata
+      481 tcgacaagta ggtttacgac ctcgatgttg gatcagggtg tccaagtggt gcagccgcta
+      541 ctaatggttc gtttgttcaa cgattaaaac cct
+//
+
+LOCUS       KM212167                 580 bp    DNA     linear   VRT 21-OCT-2014
+DEFINITION  Andinobates geminisae isolate CH 9386 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KM212167
+VERSION     KM212167.1  GI:697740176
+KEYWORDS    .
+SOURCE      mitochondrion Andinobates geminisae
+  ORGANISM  Andinobates geminisae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Hyloidea; Dendrobatidae;
+            Dendrobatinae; Andinobates.
+REFERENCE   1  (bases 1 to 580)
+  AUTHORS   Batista,A., Jaramillo,C.A., Ponce,M. and Crawford,A.J.
+  TITLE     A new species of Andinobates (Amphibia: Anura: Dendrobatidae) from
+            west central Panama
+  JOURNAL   Zootaxa 3866, 333-352 (2014)
+   PUBMED   25283663
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 580)
+  AUTHORS   Batista,A., Jaramillo,C.A., Ponce,M. and Crawford,A.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2014) Herpetology, Senckenberg Forschungsinstitut
+            und Naturmuseum Frankfurt, Senckenberganlage 25, Frankfurt, Hessen
+            60325, Germany
+FEATURES             Location/Qualifiers
+     source          1..580
+                     /organism="Andinobates geminisae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CH 9386"
+                     /specimen_voucher="MVUP:2428"
+                     /db_xref="taxon:1561229"
+                     /country="Panama: Colon, Donoso, Cocle del Norte, Cabecera
+                     del Rio Cano, aproximadamente a 6 Km. al Este de El Carmen
+                     (rio Belen)"
+                     /lat_lon="8.8536 N 80.8214 W"
+                     /collection_date="21-Feb-2011"
+                     /collected_by="Samuel Valdes (MWH) and Carlos De La Cruz"
+                     /identified_by="Cesar Jaramillo"
+                     /PCR_primers="fwd_seq: cgcctgtttatcaaaaacat, rev_seq:
+                     ccggtctgaactcagatcacgt"
+     rRNA            <1..>580
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cgcctcctgc ataacaaata ggaggtccag cctgcccagt gacattgttc aacggccgcg
+       61 gtatcctaac cgtgcgaagg tagcgtaatc acttgttctt taattgagga ctagtatgaa
+      121 tggccccacg aggactacac tgtctccttt ttctaatcaa tgaaactgat ctccccgtga
+      181 agaagcgggg ataaatctat aagacgagaa gaccctatgg agctttaaac aacaagaata
+      241 tttgcttctt ttctatcatt ttctgtaaaa ttaaattaat ccaagcattt tatctcctag
+      301 ttttaggttg gggtgaccac ggagaaaaaa taaacctcca cgttgaaatg aagcctcccc
+      361 cttctaagca aaaagacaca actttatgca tcaacacatt gactcacatt gacccaataa
+      421 tttgatcaac gaaccaagtt accctaggga taacagcgca atctactttg agagctcata
+      481 tcgacaagta ggtttacgac ctcgatgttg gatcagggtg tccaagtggt gcagccgcta
+      541 ctaatggttc gtttgttcaa cgattaaaac cctacgtgat
+//
+
+LOCUS       JQ735948                 289 bp    DNA     linear   VRT 19-MAR-2012
+DEFINITION  Ranitomeya imitator haplotype 16 D-loop, partial sequence;
+            mitochondrial.
+ACCESSION   JQ735948
+VERSION     JQ735948.1  GI:380235884
+KEYWORDS    .
+SOURCE      mitochondrion Ranitomeya imitator (mimic poison frog)
+  ORGANISM  Ranitomeya imitator
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Hyloidea; Dendrobatidae;
+            Dendrobatinae; Ranitomeya.
+REFERENCE   1  (bases 1 to 289)
+  AUTHORS   Chouteau,M. and Angers,B.
+  TITLE     Wright's shifting balance theory and the diversification of
+            aposematic signals
+  JOURNAL   PLoS ONE 7 (3), E34028 (2012)
+   PUBMED   22470509
+REFERENCE   2  (bases 1 to 289)
+  AUTHORS   Chouteau,M. and Angers,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2012) Departement Systematique et Evolution,
+            Museum National d'Histoire Naturelle, 45 Rue Buffon, Paris 75005,
+            France
+FEATURES             Location/Qualifiers
+     source          1..289
+                     /organism="Ranitomeya imitator"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:111125"
+                     /haplotype="16"
+                     /PCR_primers="fwd_seq: aatgtatatgccattatc, rev_seq:
+                     gaaatattatagacctatatc"
+     D-loop          <1..>289
+ORIGIN      
+        1 tatattatat acctatatcg ccagtttagc ctgcattttg tgttcatgag ctttcgtata
+       61 ttaacaacat ggcagtccaa ttacattaat ctgtttaaga aataaattag actaactatt
+      121 gttaaaaaga gcactctcag ccgtcgccaa ccattgaaat attgttcaaa tttatttaaa
+      181 tattcaacta actatattta aacattcaaa ttatttccaa tttttatcca actatataat
+      241 tacatccgta gttgaactga gccttctcta tccgtccgat aatggcata
+//
+
+LOCUS       HQ286383                 480 bp    DNA     linear   VRT 30-DEC-2010
+DEFINITION  Hyloxalus sp. JCS-2010a voucher QCAZ16503 cytochrome b (CYTB) gene,
+            partial cds; mitochondrial.
+ACCESSION   HQ286383
+VERSION     HQ286383.1  GI:309952171
+KEYWORDS    .
+SOURCE      mitochondrion Hyloxalus yasuni
+  ORGANISM  Hyloxalus yasuni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Hyloidea; Dendrobatidae;
+            Hyloxalinae; Hyloxalus.
+REFERENCE   1  (bases 1 to 480)
+  AUTHORS   Paez-Vacas,M.I., Coloma,L.A. and Santos,J.C.
+  TITLE     Systematics of the Hyloxalus bocagei complex (Anura:
+            Dendrobatidae): description of two new species and recognition of
+            H. maculosus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 480)
+  AUTHORS   Paez-Vacas,M.I., Coloma,L.A. and Santos,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2010) Integrative Biology, University of Texas at
+            Austin, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1..480
+                     /organism="Hyloxalus yasuni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12A"
+                     /specimen_voucher="QCAZ16503"
+                     /db_xref="taxon:906653"
+                     /country="Ecuador: Sucumbos, Bermejo"
+     gene            <1..>480
+                     /gene="CYTB"
+     CDS             <1..>480
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADO95366.1"
+                     /db_xref="GI:309952172"
+                     /translation="KKTWNIGVILFFLVMATAFVGYVLPWGQMSFWGATVITNLLSAA
+                     PYIGTNLVQWIWGGFSVDNATLTRFFTFHFILPFIIAGASMLHLLFLHQTGSSNPTGL
+                     PSNPDKVPFHTYFSYKDALGFIILLALLTALSTFSPNLLGDPDNFTPANPLVTPPHIK
+                     "
+ORIGIN      
+        1 aagaaaacat gaaacattgg agtaattctt tttttcctag ttatagctac agcatttgtc
+       61 ggctacgttc tgccctgagg gcaaatatcc ttctgaggcg ccactgtcat cactaatctc
+      121 ctctctgctg caccctatat tggcactaac ctagtgcaat gaatttgggg gggcttctct
+      181 gttgacaacg ctactctgac ccgctttttt acctttcact tcattctccc attcatcatc
+      241 gcaggcgcct ccatactcca cctccttttt cttcatcaaa ccggctcctc taaccctacc
+      301 gggttaccat caaaccccga caaagttcca ttccacacct acttctctta taaggacgcc
+      361 ctcgggttca tcatcctcct tgcccttctc actgcccttt ctaccttctc ccccaacctc
+      421 ttgggagacc cagacaactt taccccagcc aaccctctag tcactccccc gcacattaaa
+//
+
